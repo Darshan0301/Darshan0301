@@ -1,17 +1,13 @@
-## Hi there 👋
+##👋 Hi there! I'm [Your Name], a passionate Software Developer with a knack for building cool projects and solving problems! 🚀 I graduated with a B.Tech in Electronics and Telecommunication from MIT Academy of Engineering, Pune, and now, I’m all set to dive deep into the world of Software Development!
 
-<!--
-**Darshan0301/Darshan0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I Work With:
+Languages: C, C++, Java, Python, SQL, JavaScript
+Technologies & Tools: Spring, JDBC, Java EE, Maven, JUnit, GitHub, VS Code, IntelliJ IDEA, MySQL
+🌟 A Few Fun Facts About Me:
+I’m a huge Anime fan (let’s chat about our favorite shows! 🎌)
+I love Movies (anything from action-packed blockbusters to heartwarming indies 🍿)
+A proud Cricket enthusiast 🏏 (any fellow cricket fans out there?)
+Oh, and sometimes, I like to explore the world through my camera lens 📸
+Feel free to check out my projects or connect with me. Let's build something amazing together! 💻✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-hdhd
